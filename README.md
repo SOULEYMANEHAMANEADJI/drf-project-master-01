@@ -201,9 +201,4 @@ python manage.py test students
 
 Ce projet est ouvert aux améliorations et suggestions. N'hésitez pas à proposer des optimisations ou de nouvelles fonctionnalités.
 
-## 📝 **Licence**
-
-Projet éducatif sous licence MIT.
-
-Citations:
-[1] https://pplx-res.cloudinary.com/image/private/user_uploads/1454765/c730f8e9-4e4e-4ff6-93a5-76bdbae2169e/image.jpg
+## Author : SHA
